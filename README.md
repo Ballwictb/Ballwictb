@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! Mi nombre es Jamal</h2>
+<h2 align="center">Hola 👋! Soy Sixball</h2>
 
 ###
 
