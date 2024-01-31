@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! Soy Sixball</h2>
+<h2 align="center">Hola 👋!</h2>
 
 ###
 
