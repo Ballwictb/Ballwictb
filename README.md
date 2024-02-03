@@ -1,7 +1,12 @@
 <h2 align="center">Hola 👋!</h2>
 
-<img  src="./img/dados.jpg">
+<!-- <img  src="./img/dados.jpg">  --> 
 
+<div align="center">
+
+  <img src="./img/Pepdispara-horizontal.gif">
+
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ballwictb" alt="ballwictb" /></a> </p>
 
