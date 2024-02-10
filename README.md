@@ -1,5 +1,7 @@
 <h2 align="center">Hello 👋!</h2>
-
+<div align="center">
+<img  src="./people-handshake.gif" width="300">
+</div>
 <!-- 
 <div align="center">
 
