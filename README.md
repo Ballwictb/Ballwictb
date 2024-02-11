@@ -41,7 +41,7 @@
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ballwictb&theme=nord_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ballwictb&theme=nord_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=nord_dark&utcOffset=8)
  
 </div>
 <br>
