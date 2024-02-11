@@ -1,9 +1,12 @@
-<h2 align="center">Hello 👋!</h2>
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=I'm+SixBall)
+</div>
+
+<img  src="./label.jpg">
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=I'm+SixBall)
-
 <img  src="./people-handshake.gif" width="300">
 </div>
 
@@ -17,7 +20,7 @@
 
 
 
-<img  src="./img/dados.jpg">
+
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ballwictb" alt="ballwictb" /></a> </p>
 !-->
@@ -46,13 +49,21 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ballwictb&theme=nord_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ballwictb&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=nord_dark&utcOffset=8)
+  
+  <br>
+  
+  ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ballwictb&theme=react)
  
 </div>
 <br>
 
 ###
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Ballwictb/Ballwictb/output/snake.svg" border="4px" alt="Snake animation">
+
+</div>
 
 ###
 
