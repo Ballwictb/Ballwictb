@@ -1,15 +1,19 @@
 <h2 align="center">Hello 👋!</h2>
+
 <div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=I'm+SixBall)
+
 <img  src="./people-handshake.gif" width="300">
 </div>
+
 <!-- 
 <div align="center">
 
   <img src="./img/Pepdispara-horizontal.gif">
 
 </div>
-
---> 
+!--> 
 
 
 
