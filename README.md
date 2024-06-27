@@ -3,11 +3,11 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=I'm+SixBall)
 </div>
 
-<img  src="./label.jpg">
+<img src="./BannerGithub.png" width="1000">
 
 <div align="center">
   
-<img  src="./people-handshake.gif" width="300">
+<img  src="./love.gif" width="500">
 </div>
 
 <!-- 
