@@ -6,8 +6,10 @@
 <img src="./BannerGithub.png" width="1000">
 
 <div align="center">
-  
-<img  src="./love.gif" width="500">
+
+  <!-- 
+<img  src="./loading.gif" width="400">
+!--> 
 </div>
 
 <!-- 
