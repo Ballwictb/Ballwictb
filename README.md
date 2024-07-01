@@ -53,9 +53,9 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=nord_dark&utcOffset=8)
   
   <br>
-  
+  <!--
   ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ballwictb&theme=react)
- 
+ !-->
 </div>
 <br>
 
