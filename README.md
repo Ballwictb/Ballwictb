@@ -3,7 +3,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=I'm+SixBall)
 </div>
 
-<a href="https://github.com/Ballwictb"> <img src="./BannerGithubv2.png" width="1000"> </a>
+<a href="https://github.com/Ballwictb"> <img src="./BannerGithubv3.png" width="1000"> </a>
 
 <div align="center">
 
