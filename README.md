@@ -1,13 +1,21 @@
+
 <div align="center">
+
+<a href="https://privacidad.me/@ballwictb" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Ballwictb&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&width=435&lines=I'm+Sixball)](https://github.com/Ballwictb)
 </div>
 
 ![](https://visitcount.itsvg.in/api?id=ballwictb&label=Profile%20Views&color=12&pretty=true)
 
+
+
 <a href="https://github.com/Ballwictb" click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:104717038,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:166627449,&quot;originating_url&quot;:&quot;https://github.com/Ballwictb&quot;}}"> <img src="./BannerGithubv12_new.png" width="1000"> </a>
 
 <div align="center">
+
 
   <!-- 
 <img  src="./loading.gif" width="400">
