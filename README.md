@@ -60,9 +60,9 @@
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ballwictb&theme=github)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ballwictb&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=github&utcOffset=8)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ballwictb&theme=solarized)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ballwictb&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=solarized&utcOffset=8)
   
   <br>
   <!--
