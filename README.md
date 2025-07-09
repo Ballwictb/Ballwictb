@@ -60,12 +60,12 @@
 
 <div align="center">
   
+  <!--
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ballwictb&theme=solarized)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ballwictb&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ballwictb&theme=solarized&utcOffset=8)
   
   <br>
-  <!--
   ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ballwictb&theme=react)
  !-->
 </div>
