@@ -3,10 +3,10 @@
 
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ead5a9&center=true&width=435&lines=I'm+Sixball)](https://github.com/Ballwictb)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=fff&center=true&width=435&lines=I'm+Sixball)](https://github.com/Ballwictb)
 
 <a href="https://privacidad.me/@ballwictb" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=Ballwictb&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Ballwictb&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 </div>
 
