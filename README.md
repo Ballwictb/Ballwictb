@@ -3,7 +3,7 @@
 
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=fff&center=true&width=435&lines=I'm+Sixball)](https://github.com/Ballwictb)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=014AAC&center=true&width=435&lines=I'm+Sixball)](https://github.com/Ballwictb)
 
 <a href="https://privacidad.me/@ballwictb" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=Ballwictb&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
@@ -14,7 +14,7 @@
 
 
 
-<a href="https://github.com/Ballwictb" click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:104717038,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:166627449,&quot;originating_url&quot;:&quot;https://github.com/Ballwictb&quot;}}"> <img src="./BannerGithubv19_new.png" width="1000"> </a>
+<a href="https://github.com/Ballwictb" click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:104717038,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:166627449,&quot;originating_url&quot;:&quot;https://github.com/Ballwictb&quot;}}"> <img src="./BannerGithubv20_newr.png" width="1000"> </a>
 
 <div align="center">
 
