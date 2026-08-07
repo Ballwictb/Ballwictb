@@ -8,6 +8,10 @@
 <a href="https://privacidad.me/@ballwictb" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=Ballwictb&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
+
+<a href="[https://privacidad.me/@ballwictb](https://www.credly.com/badges/9fbb2255-ae11-42e1-b2bd-c333e0312f86/public_url)" target="_blank">
+        <img src="https://github.com/Ballwictb/Ballwictb/blob/main/img/open-vsx-individual-sponsor.png" alt="sponsor open-vsx" width="30%" height="0%">
+</a>
 </div>
 
 ![](https://visitcount.itsvg.in/api?id=ballwictb&label=Profile%20Views&color=12&pretty=true)
